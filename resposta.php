@@ -21,6 +21,7 @@
                 print "<br>Seu sucessor é <strong>$sucessor</strong>";
 
             ?>
+            <p><a href="javascript:history.go(-1)">Voltar para a página anterior</a></p>
         </p>
     </main>
     
