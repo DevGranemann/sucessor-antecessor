@@ -1,15 +1,15 @@
 
-# Just a Exercice 
+  <h1 align="center">Just a Exercice</h1> 
 
-Calculador de sucessor e antecessor. Um exercício simples para relembrar e treinar um pouco. 
+<p align="center">Calculador de sucessor e antecessor. Um exercício simples para relembrar e treinar um pouco.</p> 
 
-## Inserimos um número:
+ <h2 align="center">Inserimos um número:</h2>
 
 <p align="center">
     <img src="imagens/readme.png">
 </p>
 
-## Resultado
+<h2 align="center">Resultado</h2>
 
 <p align="center">
     <img src="imagens/readme2.png">
@@ -19,3 +19,4 @@ Calculador de sucessor e antecessor. Um exercício simples para relembrar e trei
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
